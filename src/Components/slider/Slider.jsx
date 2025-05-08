@@ -6,7 +6,6 @@ import slider3 from "../../../public/slider/slider3.jpg";
 
 const images = [{slider1}, {slider2}, {slider3}];
 
-
 const ImageSlider = () => {
   const [currentIndex, setCurrentIndex] = useState(0);
 
