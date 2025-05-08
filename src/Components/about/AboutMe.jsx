@@ -1,4 +1,6 @@
 import styles from "./AboutMe.module.css";
+import Ommig1 from "../../../public/Ommig1.jpg";
+import Ommig2 from "../../../public/Ommig2.jpg";
 const AboutMe = () => {
   return (
     <div className={styles.AboutMe}>
@@ -15,8 +17,8 @@ const AboutMe = () => {
           kendte turistattraktioner til de mere skjulte perler.
         </h3>
         <div className={styles.AboutMeImg}>
-          <img src="Ommig1.JPG" alt="" />
-          <img src="Ommig2.jpg" alt="" />
+          <img src={Ommig1} alt="" />
+          <img src={Ommig2} alt="" />
         </div>
       </div>
     </div>

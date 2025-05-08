@@ -1,4 +1,5 @@
 import styles from "./Bloginfo.module.css";
+import it1 from "../../../public/it1.jpg";
 const Bloginfo = () => {
   return (
     <section>
@@ -30,7 +31,7 @@ const Bloginfo = () => {
       </div>
 
       <div className={styles.img}>
-        <img src="it1.jpg" alt="" />
+        <img src={it1} alt="" />
       </div>
     </section>
   );

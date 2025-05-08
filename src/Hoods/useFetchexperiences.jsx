@@ -1,4 +1,5 @@
 import { useEffect, useState } from "react";
+import json from "../../public/Experience/Experience.json";
 
 const useFetchexperiences = () => {
   const [experiences, setExperience] = useState([]);
@@ -6,7 +7,7 @@ const useFetchexperiences = () => {
 
   const fetchexperiences = async () => {
     try {
-      const response = await fetch("../../../public/Experience/Experience.json");
+      const response = await fetch({json});
       const data = await response.json();
        console.log(data);
       setExperience(data.experiences);

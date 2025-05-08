@@ -1,6 +1,8 @@
 import { useState } from "react";
 import styles from "./Contact.module.css";
 import Modal from "../modal/Modal";
+import C from "../../../public/contact.jpg";
+import logo from "../../../public/logo.svg";
 const ContactForm = () => {
   const [isModalOpen, setIsModalOpen] = useState(false);
 
@@ -20,7 +22,7 @@ const handleSubmit = (e) => {
 
       <section className={styles.ContactFlex}>
         <div className={styles.ContactImg}>
-          <img src="contact.JPG" alt="" />
+          <img src={C} alt="" />
         </div>
 
         <div className={styles.ContactText}>
@@ -47,8 +49,8 @@ const handleSubmit = (e) => {
         <Modal onClose={closeModal}>
           <div className={styles.Thankmessage}>
             <h2>Tak for din mail!</h2>
-            <p>Jeg vil svare på den så hurtigt som muligt</p> 
-            <img src="logo.svg" alt="" />
+            <p>Jeg vil svare på den så hurtigt som muligt</p>
+            <img src={logo} alt="logo" />
           </div>
           <button onClick={closeModal}>Luk</button>
         </Modal>

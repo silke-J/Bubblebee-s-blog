@@ -1,11 +1,11 @@
 import { useState, useEffect } from "react";
 import styles from "./Slider.module.css";
+import slider1 from "../../../public/slider/slider1.jpg";
+import slider2 from "../../../public/slider/slider2.jpg";
+import slider3 from "../../../public/slider/slider3.jpg";
 
-const images = [
-  "../slider/slider1.JPG",
-  "../slider/slider2.JPG",
-  "../slider/slider3.JPG",
-];
+const images = [{slider1}, {slider2}, {slider3}];
+
 
 const ImageSlider = () => {
   const [currentIndex, setCurrentIndex] = useState(0);

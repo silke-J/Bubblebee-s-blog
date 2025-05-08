@@ -1,4 +1,5 @@
 import { useEffect, useState } from "react";
+import json from "../../public/Blog/Blog.json";
 
 const useFetchblogs = () => {
   const [blogs, setBlog] = useState([]);
@@ -6,7 +7,7 @@ const useFetchblogs = () => {
 
   const fetchblog = async () => {
     try {
-      const response = await fetch("../../../public/Blog/Blog.json");
+      const response = await fetch({json});
       const data = await response.json();
       setBlog(data.blogs);
     } catch (error) {
