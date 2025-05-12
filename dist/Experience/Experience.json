@@ -1,0 +1,84 @@
+{
+  "experiences": [
+        {
+      "id": "1",
+      "title": "Italien",
+      "name": "Limoncello solskin på flaske ",
+      "description1": "Limoncello er en af Italiens mest ikoniske likører, og intet slår at nyde den i sin oprindelsesregion, især langs Amalfikysten. Jeg smagte den første gang i en lille familiedrevet café, hvor den blev serveret iskold i små glas.",
+      "description2": " Den intense smag af solmodne citroner, balanceret med en sød og frisk syrlighed, var uimodståelig. Limoncello laves af citronskal, alkohol, vand og sukker – en simpel, men perfekt kombination. Den er ideel som en afslutning på et godt måltid eller blandet i cocktails. At drikke limoncello i Italien føles som at smage solskin og sommer i flydende form.",
+      "image": "/Experience/limoncello1.jpg",
+      "images": "/Experience/limoncello2.jpg",
+      "tag": "italien"
+    },
+    {
+      "id": "2",
+      "title": "Italien",
+      "name": "Italienske is ved Gardasøen",
+      "description1": "Gardasøen, et af Italiens smukkeste steder, er ikke kun berømt for sine fantastiske landskaber, men også for sin lækre italienske is. At spise gelato ved søen er en oplevelse, du ikke må gå glip af. Den italienske is er kendt for sin cremede konsistens og intense smag, der kommer fra friske og naturlige ingredienser som frugt, nødder og chokolade.",
+      "description2": " Ved Gardasøen finder du et væld af isbutikker, der tilbyder både klassiske smagsvarianter som pistacie, chokolade og jordbær, samt lokale specialiteter som citron eller mandel. Den afslappede atmosfære ved søen gør det til det perfekte sted at nyde en iskugle, mens du ser på den smukke natur og det klare vand. En tur til Gardasøen uden at smage gelato er simpelthen ikke fuldendt!",
+      "image": "/Experience/icecream1.JPG",
+      "images": "/Experience/icecream2.JPG",
+      "tag": "italien"
+    },
+    {
+      "id": "3",
+      "title": "Italien",
+      "name": "Colosseum",
+      "description1": "Colosseum, en af verdens mest ikoniske monumenter, er et must-see, hvis du er i Italien. Denne enorme amfiteater i hjertet af Rom blev opført i det første århundrede e.Kr. og kunne rumme op til 50.000 tilskuere. Det blev brugt til gladiatorkampe, offentlige festligheder og vilddyrsudstillinger, og det var et symbol på Romerrigets magt og pragt. ",
+      "description2": " I dag står Colosseum som et imponerende vidnesbyrd om antikkens ingeniørkunst og arkitektur. At gå rundt i denne storslåede struktur, som har overlevet jordskælv og tidens tand, giver en unik følelse af at være tættere på historiens dramatiske øjeblikke. Et besøg her er en rejse tilbage i tiden og en chance for at opleve en del af verdens kulturarv på nært hold!",
+      "images": "/Experience/colosseum1.JPG",
+      "image": "/Experience/colosseum2.JPG",
+      "tag": "italien"
+    },
+    {
+      "id": "4",
+      "title": "Italien",
+      "name": "Shoppetur til Milano  ",
+      "description1": "Milano er en by, der kombinerer elegant mode, imponerende arkitektur og en rig historie. Da jeg besøgte byen, blev jeg hurtigt fanget af den sofistikerede atmosfære.  ",
+      "description2": " Duomo di Milano, den storslåede gotiske katedral, var et must-see med sin betagende facade og udsigt fra taget. Modeelskere vil elske Galleria Vittorio Emanuele II, hvor luksusbutikker og caféer skaber en unik stemning. Jeg tog også forbi Leonardo da Vincis ´Den Sidste Nadver´, et mesterværk gemt i en beskeden kirke. Milano er en by, der emmer af stil og historie, hvor klassisk og moderne smelter sammen på en fascinerende måde.",
+      "image": "/Experience/milano1.jpg",
+      "images": "/Experience/milano2.JPG",
+      "tag": "italien"
+    },
+    {
+      "id": "5",
+      "title": "Italien",
+      "name": "Det skæve tårn i Pisa",
+      "description1": "Det Skæve Tårn i Pisa er en af verdens mest berømte seværdigheder, og det er et uundgåeligt stop på enhver rejse til Italien. Tårnet, der er en del af katedralen i Pisa, begyndte at hælde under opførelsen i det 12. århundrede, hvilket resulterede i den karakteristiske skråning, der har gjort det til et ikon.",
+      "description2": "Tårnet er ikke kun fascinerende på grund af dets unikke hældning, men også på grund af den fantastiske arkitektur og udsigten fra toppen. Du kan klatre op ad de 294 trin og nyde en spektakulær udsigt over Pisa og det omkringliggende landskab. Det Skæve Tårn er et perfekt eksempel på, hvordan uforudsete omstændigheder kan skabe noget helt unikt og utroligt smukt – en oplevelse, du ikke vil gå glip af, når du er i Italien!",
+      "image": "/Experience/pisa1.JPG",
+      "images": "/Experience/pisa2.JPG",
+      "tag": "italien"
+    },
+    {
+      "id": "6",
+      "title": "Italien",
+      "name": "Ponte Vecchio",
+      "description1": "Ponte Vecchio, den gamle bro i Firenze, er et af de mest ikoniske vartegn i Italien. Denne middelalderlige bro, der spænder over floden Arno, er kendt for sine farverige butikker, der ligger langs begge sider af broen, og som traditionelt har været fyldt med guld- og smykkebutikker.",
+      "description2": " Ponte Vecchio blev bygget i 1345 og har overlevet både oversvømmelser og krige, hvilket gør den til et symbol på både Florens’ historie og dens modstandskraft. En gåtur over broen giver ikke kun en fantastisk udsigt over floden Arno, men også en chance for at opleve den livlige atmosfære og charme, som Firenze er kendt for. Det er et perfekt sted at tage billeder, nyde lokale varer og opleve en del af Florens' rige kulturarv.",
+      "images": "/Experience/firenze1.JPG",
+      "image": "/Experience/firenze2.JPG",
+      "tag": "italien"
+    },
+    {
+      "id": "7",
+      "title": "Italien",
+      "name": "Kirker",
+      "description1": "Italien er hjemsted for nogle af verdens mest imponerende og historiske kirker, som spiller en central rolle i landets kultur og historie. Kirkerne er ikke kun religiøse steder, men også kunstneriske vidundere, fyldt med fantastiske fresker, statuer og arkitektoniske mesterværker. I Rom finder du den storslåede Peterskirke i Vatikanet, mens Firenze er hjemsted for den ikoniske Duomo med sin betagende kuppel.",
+      "description2": "I hele landet vil du finde kirker, der rummer værker af berømte kunstnere som Michelangelo, Caravaggio og Raphael. Hver kirke fortæller sin egen historie og tilbyder en unik oplevelse, hvor du kan beundre både den religiøse betydning og den kunstneriske arv. Et besøg i Italiens kirker giver dig ikke bare indsigt i landets dybe religiøse traditioner, men også en chance for at opleve noget af verdens fineste kunst og arkitektur.",
+      "images": "/Experience/kirker1.JPG",
+      "image": "/Experience/milano2.JPG",
+      "tag": "italien"
+    },
+    {
+      "id": "8",
+      "title": "Italien",
+      "name": "Sejltur til Venedig ",
+      "description1": "Venedig er en af de mest unikke byer, jeg nogensinde har besøgt. Byen, bygget på vand, er fyldt med smalle kanaler, historiske bygninger og en helt særlig atmosfære. Jeg startede ved Markuspladsen, hvor den imponerende Markuskirke og det storslåede Dogepalads tog pusten fra mig.  ",
+      "description2": "En sejltur langs Canal Grande gav en fantastisk udsigt over de gamle paladser, mens en tur i gondol gennem de mindre kanaler var en magisk oplevelse. Venedigs charme ligger i dens historie, romantik og det unikke bybillede, der gør hver gåtur til en uforglemmelig rejse gennem tid og kultur.",
+      "image": "/Experience/venedig1.jpg",
+      "images": "/Experience/venedig2.JPG",
+      "tag": "italien"
+    }
+  ]
+}

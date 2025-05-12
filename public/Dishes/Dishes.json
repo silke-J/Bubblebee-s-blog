@@ -1,0 +1,60 @@
+{
+  "dishes": [
+    {
+      "id": "1",
+      "title": "Italien",
+      "name": "Pizza",
+      "description": "Hvis du elsker pizza, er en tur til Italien et must! Her finder du den autentiske pizza, skabt med traditioner, der går hundreder af år tilbage. Særligt i Napoli, pizzaens fødested, kan du smage den ægte vare – en luftig, let brændt skorpe, frisk tomatsauce, cremet mozzarella og duftende basilikum. Italienerne bruger kun de bedste råvarer, ofte lokale og økologiske, hvilket giver en smag, der ikke kan sammenlignes med industrielt fremstillede pizzaer. En ægte napolitansk pizza bages i en brændefyret ovn ved over 400 grader, hvilket giver den perfekte balance mellem sprødhed og saftighed. Ingen steder i verden smager pizza så godt som i Italien!",
+      "image": "/Dishes/pizza.jpg",
+      "tag": "italienske"
+    },
+    {
+      "id": "2",
+      "title": "Italien",
+      "name": "Lasagne",
+      "description": "Lasagne er en af Italiens mest elskede retter, og hvis du vil opleve den i sin mest autentiske form, skal du tage til Italien! Retten stammer fra Bologna og laves traditionelt med friske lag af pastaplader, en fyldig ragù (kødsauce), cremet béchamel og masser af Parmigiano Reggiano. Den italienske version er langt fra de tunge, overfyldte lasagner, man ofte finder andre steder – her handler det om balance, kvalitet og rige smage. I Bologna får du den bedste Lasagne alla Bolognese, bagt til perfektion i en stenovn. Italienerne sætter en ære i deres madlavning, og det kan smages i hver eneste bid!",
+      "image": "/Dishes/lasagne.jpg",
+      "tag": "italienske"
+    },
+    {
+      "id": "3",
+      "title": "Italien",
+      "name": "Focaccia brød med rosmarin",
+      "description": "Focaccia er et af Italiens mest elskede brød, og intet slår den autentiske version, som du finder i Ligurien – særligt i byen Genova, hvor focaccia stammer fra. Den klassiske focaccia med rosmarin er luftig, gylden og let sprød på overfladen, bagt med generøse mængder olivenolie, havsalt og frisk rosmarin. Italienerne mestrer kunsten at lave dette simple, men smagfulde brød, som ofte serveres som snack, tilbehør eller endda morgenmad dyppet i kaffe! Den friske, aromatiske smag og perfekte konsistens gør, at du ikke finder en bedre focaccia end i Italien. En bid – og du er solgt!",
+      "image": "/Dishes/italiensk-focaccia-broed-med-rosmarin.jpg",
+      "tag": "italienske"
+    },
+    {
+      "id": "4",
+      "title": "Italien",
+      "name": "Cafe vin bar",
+      "description": "En café og vinbar i Italien er mere end bare et sted at drikke kaffe eller vin – det er en oplevelse. Italienerne elsker at samles på de lokale caféer og vinbarer, som er hjertet af det italienske sociale liv. En god italiensk café serverer stærk, aromatisk espresso eller en cremet cappuccino, ofte nydt med en lille sød snack som en cannoli eller en sfogliatella. I vinbarerne kan du smage på et væld af lokale vine, der varierer fra friske hvidvine til fyldige rødvine, alt sammen perfekt ledsaget af små antipasti som ost, charcuteri og oliven. Her får du en autentisk smagsoplevelse, samtidig med at du kan slappe af og nyde det livlige, venlige italienske miljø. En tur til en café eller vinbar i Italien er en perfekt måde at opleve den ægte italienske kultur på!",
+      "image": "/Dishes/CafeVinBar.jpg",
+      "tag": "italienske"
+    },
+    {
+      "id": "5",
+      "title": "Italien",
+      "name": "Carbonara ",
+      "description": "Carbonara er en simpel, men uimodståelig ret, der findes i mange varianter over hele Italien. I Italien er ostesaucen ofte lavet med traditionelle ingredienser som parmesan, pecorino eller gorgonzola, blandet med fløde eller smør for at skabe en cremet og fyldig sauce. En af de mest klassiske versioner er ´Cacio e Pepe´ fra Rom, der kombinerer den skarpe smag af pecorino og friskkværnet sort peber med pastaen for at skabe en fantastisk balance af smag. Italienerne bruger kun de fineste oster, hvilket gør en simpel ostesauce til en smagsoplevelse ud over det sædvanlige. Når du smager pasta med ostesauce i Italien, vil du forstå, hvorfor denne ret er en uundværlig del af det italienske køkken!",
+      "image": "/Dishes/pasta2.png",
+      "tag": "italienske"
+    },
+    {
+      "id": "6",
+      "title": "Italien",
+      "name": "Bolognese",
+      "description": "Bolognese er en af de mest klassiske italienske retter, og intet slår den autentiske version, du finder i Italien. Tomatsaucen laves med simple, men kvalitetsrige ingredienser – friske, solmodne tomater, olivenolie, hvidløg og et strejf af basilikum – der koger sammen for at skabe en smagfuld og let syrlig sauce. I Italien er pastaen og saucen altid perfekt tilpasset hinanden – om det er spaghetti, penne eller rigatoni, så optager pastaen saucen på den bedste måde. Hver region i Italien har sin egen version af bolognese, men fælles for dem alle er, at de bygger på de bedste råvarer og en lang tradition for italiensk madlavning. Når du smager bolognese i Italien, smager du på ægte italiensk tradition og kærlighed til mad!",
+      "image": "/Dishes/pasta.jpg",
+      "tag": "italienske"
+    },
+    {
+      "id": "7",
+      "title": "Italien",
+      "name": "Tiramisu med mascarpone og ladyfingers",
+      "description": "Tiramisu er en uundværlig italiensk dessert, og den bedste version finder du selvfølgelig i Italien. Denne delikate dessert består af lag af ladyfingers, som er dyppet i kaffe og likør, og et cremet fyld lavet af mascarpone, æg og sukker. I Italien bruger de kun de bedste ingredienser – den blødeste mascarpone og stærk, velbrygget espresso – hvilket giver tiramisuen dens unikke og uforlignelige smag. Tiramisu blev skabt i Veneto-regionen, og det siges, at den blev udviklet som en opkvikkende dessert for lokale. Når du smager den ægte vare i Italien, forstår du, hvorfor denne dessert er blevet en international favorit!",
+      "image": "/Dishes/tiramisu-italiensk-dessert-med-mascarpone-og-ladyfingers.jpg",
+      "tag": "italienske"
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+h2,
+p {
+  text-align: center;
+}
+.Gallery h2 {
+  width: 300px;
+  margin-top: 10px;
+}
+.Gallery {
+  justify-items: center;
+}
+.Gallery h1 {
+  font-size: 60px;
+  font-family: "Indie Flower";
+  margin-top: 20px;
+  margin-bottom: 5px;
+  color: #fea75b;
+}
+.pic {
+  margin-bottom: 50px;
+}
+
+h2 {
+  font-size: 15px;
+  margin-bottom: 30px;
+}
+
+p {
+  margin-bottom: 4px;
+  margin-top: 6px;
+}
+
+.pics img {
+  object-fit: cover;
+  max-width: 100%;
+  height: auto;
+  vertical-align: middle;
+  border-radius: 5px;
+}
+.pics {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(400px, 1fr));
+  gap: 60px;
+  margin: 60px;
+  margin-bottom: 80px;
+  justify-content: center;
+}
+
+@media (max-width: 500px) {
+  .pics img {
+    object-fit: cover;
+    width: 90%;
+    height: auto;
+    border-radius: 5px;
+  }
+  .pic {
+    margin-bottom: 0;
+  }
+}

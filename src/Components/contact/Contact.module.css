@@ -1,0 +1,149 @@
+.Contactheader h1 {
+  color: #fea75b;
+  padding: 10px;
+  font-size: 60px;
+  margin-top: 40px;
+  margin-bottom: 5px;
+  font-family: "Indie Flower";
+}
+.Contactheader h2 {
+  margin-bottom: 60px;
+  color: #fea75b;
+  font-size: 20px;
+  width: 600px;
+  margin-top: 0;
+}
+.Contactheader {
+  justify-items: center;
+}
+.ContactFlex {
+  display: flex;
+  justify-content: center;
+  background-color: #fff7e5;
+  padding-top: 50px;
+  padding-bottom: 40px;
+  margin-bottom: 40px;
+}
+.ContactImg img {
+  height: auto;
+  width: 500px;
+  margin-top: 50px;
+  margin-bottom: 50px;
+}
+.form {
+  display: block;
+  margin-left: 40px;
+  text-align: left;
+  line-height: 0;
+  justify-items: center;
+  margin-top: 100px;
+}
+
+.ContactButton {
+  padding: 10px;
+  width: 150px;
+  margin-top: 30px;
+  margin-left: 150px;
+  background-color: #fea75b;
+  border: none;
+  color: white;
+  border-radius: 30px;
+}
+
+.Message h2 {
+  margin-right: 10px;
+  font-size: 17px;
+  color: #fea75b;
+  font-weight: 800;
+  width: 140px;
+  margin-top: 80px;
+}
+.Email h2 {
+  font-size: 17px;
+  color: #fea75b;
+  font-weight: 800;
+  width: 140px;
+  margin-top: 20px;
+}
+input {
+  padding: 5px;
+  width: 250px;
+  height: 40px;
+  border: #fea75b 2px solid;
+}
+.Email {
+  display: flex;
+}
+.Message {
+  display: flex;
+  margin-left: 40px;
+}
+textarea[type="text"] {
+  padding: 0.8em;
+  font-size: 1em;
+  width: calc(100% - 1em);
+
+  border: #fea75b 2px solid;
+  font-family: "Advent Pro";
+  margin-top: 30px;
+}
+.form textarea[placeholder="spøgermål"] {
+  resize: none;
+  padding-bottom: 70px;
+}
+
+.Thankmessage h2 {
+  font-size: 20px;
+}
+.Thankmessage img {
+  height: 80px;
+  margin-top: 30px;
+}
+.Thankmessage p {
+  font-size: 20px;
+}
+
+@media (max-width: 500px) {
+  .Contactheader h1 {
+    font-size: 40px;
+  }
+  .Contactheader h2 {
+    font-size: 15px;
+  }
+
+  .ContactFlex {
+  display: block;
+    padding-top: 1px;
+  }
+  .ContactImg img {
+    width: 90%;
+    margin-bottom: 0;
+  }
+
+  .form {
+    margin-top: 40px;
+    margin-left: 0;
+  }
+  .Message {
+    display: block;
+    margin-left: 0;
+  }
+  .Message h2 {
+    margin-bottom: 0;
+    margin-top: 40px;
+  }
+  textarea[type="text"] {
+    width: 250px;
+  }
+  .Email {
+    margin-left: 0;
+    display: block;
+  }
+
+  .ContactButton {
+    padding: 15px;
+    width: 200px;
+    margin-left: 0;
+    font-size: 15px;
+  }
+}

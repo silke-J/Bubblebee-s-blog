@@ -1,0 +1,51 @@
+.AboutMeImg {
+  display: flex;
+  width: auto;
+  height: 300px;
+  justify-content: center;
+  gap: 30px;
+  margin-bottom: 60px;
+  padding-bottom: 50px;
+}
+
+.AboutMeText {
+  color: white;
+  background-color: #fea75b;
+  justify-items: center;
+}
+.AboutMeText h3 {
+  margin-top: 60px;
+  font-size: 15px;
+  margin-bottom: 60px;
+  width: 700px;
+  text-align: left;
+}
+.AboutMeText h1 {
+  font-size: 40px;
+  color: white;
+  margin-top: 50px;
+  margin-bottom: 20px;
+  font-family: "Indie Flower";
+  padding-top: 40px;
+}
+@media (max-width: 500px) {
+  .AboutMeText h3 {
+    width: 300px;
+  }
+  .AboutMe {
+    height: 145vh;
+  }
+  .AboutMeText {
+    height: 90vh;
+  }
+  .AboutMeImg {
+    display: block;
+    width: 100%;
+    height: 300px;
+  }
+  .AboutMeImg img {
+    width: 100%;
+    height: 200px;
+    margin-bottom: 5px;
+  }
+}
