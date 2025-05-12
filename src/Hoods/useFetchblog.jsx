@@ -1,5 +1,5 @@
 import { useEffect, useState } from "react";
-import json from "../../public/Blog/Blog.json";
+import json from "/Blog/Blog.json";
 
 const useFetchblogs = () => {
   const [blogs, setBlog] = useState([]);
