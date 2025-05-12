@@ -1,0 +1,40 @@
+{
+  "blogs": [
+    {
+      "id": "1",
+      "title": "Frankrig",
+      "name": "Volleyball Japan Vs Argentina",
+      "description": "Japan mod Argentina i volleyball ved OL 2024 var en intens kamp, der virkelig viste sportens drama.  ",
+      "description2": "Japan mod Argentina i volleyball ved OL 2024 var en intens kamp, der virkelig viste sportens drama. Jeg så Japan sikre en imponerende 3-1 sejr med sætcifrene 25-16, 25-22, 18-25 og 25-23. Yuji Nishida var kampens helt med 21 point, mens Ran Takahashi også leverede stærkt spil. Argentina kæmpede bravt, især med Facundo Conte som topscorer med 19 point. Efter et nederlag mod Tyskland var denne sejr afgørende for Japan, der nu stod stærkere i turneringen. At opleve volleyball på dette niveau var en vild oplevelse – intens, energifyldt og fyldt med passion!",
+      "image": "/Blog/ol2024.jpg",
+      "tag": "forside"
+    },
+    {
+      "id": "2",
+      "title": "Japan",
+      "name": "De japanske Sakura-træer",
+      "description": "Da jeg oplevede de japanske sakura-træer i fuldt flor ",
+      "description2": "Da jeg oplevede de japanske sakura-træer i fuldt flor, var det som at træde ind i et levende maleri. Overalt stod de lyserøde kirsebærblomster i en næsten magisk kontrast til den blå himmel og de gamle templer. I Japan er hanami, traditionen med at nyde sakura-blomstringen, en særlig tid, hvor folk samles i parker og langs floder for at beundre træernes skønhed. Jeg besøgte Kyoto og Tokyo under blomstringssæsonen og sad blandt lokalbefolkningen i Ueno Park med en kop grøn te, mens blomsterblade dalede som lyserødt snefnug. Det var en af de mest betagende naturoplevelser, jeg nogensinde har haft.!",
+      "image": "/Blog/sakuraTree.jpg",
+      "tag": "blog"
+    },
+    {
+      "id": "3",
+      "title": "Japan",
+      "name": "kyoto moss garden",
+      "description": "Kyoto er berømt for sine fredfyldte moshaver, hvor natur og tradition smelter sammen i en magisk atmosfære. ",
+      "description2": "Da jeg besøgte Kyoto, blev jeg tryllebundet af de smukke moshaver, især Saiho-ji, også kendt som `Moss Temple´. Haven er dækket af over 120 forskellige mosarter, der skaber et blødt, grønt tæppe og en næsten drømmeagtig atmosfære. For at bevare roen kræver et besøg forudgående reservation, hvilket gjorde oplevelsen endnu mere speciel. At gå gennem haven, omgivet af gamle træer, små vandløb og de tætte moslag, føltes som at træde ind i en anden verden. Kyoto’s moshaver er virkelig et sted, hvor tid og stress forsvinder, og hvor man kan opleve naturens stille skønhed på en helt unik måde.",
+      "image": "/Blog/mossGarden.jpg",
+      "tag": "blog"
+    },
+    {
+      "id": "4",
+      "title": "Italien",
+      "name": "Magiske oplevelser i Gardaland",
+      "description": "Italiens største forlystelsespark ved Gardasøen, var det som at træde ind i en verden af eventyr.  ",
+      "description2": "Da jeg besøgte Gardaland, Italiens største forlystelsespark ved Gardasøen, var det som at træde ind i en verden af eventyr. Parken byder på alt fra adrenalinfyldte rutsjebaner til familievenlige attraktioner og magiske shows. Jeg prøvede Raptor, en hæsblæsende wing coaster, og den ikoniske Blue Tornado, der fik adrenalinen til at pumpe. For dem, der elsker eventyr, er Fuga da Atlantide, en vandrutsjebane med mytologisk tema, en must-try. Parken har også et akvarium og tematiserede områder, der gør oplevelsen endnu mere speciel. Gardaland er et perfekt stop for både børnefamilier og thrillseekers – en dag her glemmer man aldrig!",
+      "image": "/Blog/gardaland.jpg",
+      "tag": "forside"
+    }
+  ]
+}
