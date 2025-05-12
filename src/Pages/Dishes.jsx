@@ -1,5 +1,4 @@
-import DishesLink from "../Components/dishes/Disheslink";
-
+import DishesLink from "../Components/dishes/DishesLink";
 
 const Dishes= () => {
   return (

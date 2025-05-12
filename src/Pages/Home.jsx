@@ -1,4 +1,3 @@
-
 import Bloginfo from "../Components/bloginfo/Bloginfo";
 import Blogs from "../Components/newblog/NewBlog";
 import ImageSlider from "../Components/slider/Slider";
