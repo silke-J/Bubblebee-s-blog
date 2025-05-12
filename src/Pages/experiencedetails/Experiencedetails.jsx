@@ -1,11 +1,10 @@
 
 import { useParams } from "react-router-dom";
 import styles from "./Experiencedetails.module.css";
-import {useFetchexperiences } from "../../Hoods/useFetchexperiences";
+import { experiences } from "../../json/Experience/Experience.json";
 
 const ExperienceDetails = () => {
   const { id } = useParams();
- const { experiences } = useFetchexperiences();
   const experience = experiences.find((e) => e.id === id)
 
 console.log(experiences)

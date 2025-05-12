@@ -1,5 +1,5 @@
 import { useEffect, useState } from "react";
-import json from "../../public/Dishes/Dishes.json";
+import json from "../json/Dishes/Dishes.json";
 const useFetchdishes = () => {
   const [dishes, setDishe] = useState([]);
   const [error, setError] = useState(null);

@@ -1,10 +1,9 @@
 import { useParams } from "react-router-dom";
 import styles from "./Blogdetails.module.css";
-import { useFetchblogs } from "../../Hoods/useFetchblog";
+import { blogs } from "../../json/Blog/Blog.json";
 
 const BlogDetails = () => {
   const { id } = useParams();
-  const { blogs } = useFetchblogs();
   const blog = blogs.find((b) => b.id === id);
 
   return (

@@ -1,9 +1,11 @@
 import { Link } from "react-router-dom";
 import styles from "./BlogsLink.module.css";
-import { useFetchblogs } from "../../Hoods/useFetchblog.jsx";
+import {blogs} from "../../json/Blog/Blog.json";
+
 
 const BlogLink = () => {
-  const { blogs } = useFetchblogs();
+
+  console.log(blogs)
   return (
     <section className={styles.blog}>
       <h1>Blog indlæg</h1>

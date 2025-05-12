@@ -1,5 +1,5 @@
 import { useEffect, useState } from "react";
-import json from "/Blog/Blog.json";
+import json from "../json/Blog/Blog.json";
 
 const useFetchblogs = () => {
   const [blogs, setBlog] = useState([]);
@@ -9,11 +9,11 @@ const useFetchblogs = () => {
     try {
       const response = await fetch({json});
       const data = await response.json();
+        console.log(data);
       setBlog(data.blogs);
     } catch (error) {
       setError(error.message);
     }
-   
   };
   let forside = blogs.filter((p) => p.tag.includes("forside"));
 

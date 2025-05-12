@@ -1,9 +1,9 @@
 import { Link } from "react-router-dom";
 import styles from "./DishesLink.module.css";
-import { useFetchdishes } from "../../Hoods/useFetchdishes.jsx";
+import { dishes} from "../../json/Dishes/Dishes.json";
 
 const DishesLink = () => {
-  const { dishes } = useFetchdishes();
+ 
   return (
     <section className={styles.dishe}>
       <h1>Italienske retter du skal smage</h1>

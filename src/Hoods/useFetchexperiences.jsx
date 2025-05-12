@@ -1,5 +1,5 @@
 import { useEffect, useState } from "react";
-import json from "../../public/Experience/Experience.json";
+import json from "../json/Experience/Experience.json";
 
 const useFetchexperiences = () => {
   const [experiences, setExperience] = useState([]);

@@ -1,10 +1,10 @@
-import { useState } from "react";
-import { useFetchblogs } from "../../Hoods/useFetchblog";
+
+import { blogs } from "../../json/Blog/Blog.json";
 import styles from "./NewBlog.module.css";
 import { Link } from "react-router-dom";
 
 const Blogs = () => {
-  const { blogs} = useFetchblogs();
+ 
 
    const newblogs = blogs.filter((p) => p.tag.includes("forside"));
 

@@ -1,10 +1,9 @@
 import { useParams } from "react-router-dom";
 import styles from "./Dishesdetails.module.css";
-import { useFetchdishes } from "../../Hoods/useFetchdishes";
+import { dishes } from "../../json/Dishes/Dishes.json";
 
 const DishesDetails = () => {
   const { id } = useParams();
-  const { dishes } = useFetchdishes();
   const dishe = dishes.find((d) => d.id === id);
 
   return (

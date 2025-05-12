@@ -1,9 +1,9 @@
 import { Link } from "react-router-dom";
 import styles from "./ExperienceLink.module.css";
-import { useFetchexperiences } from "../../Hoods/useFetchexperiences";
+import { experiences } from "../../json/Experience/Experience.json";
 
 const ExperienceLink = () => {
-  const {experiences}=useFetchexperiences()
+
   return (
     <section className={styles.experience}>
       <h1>Oplevelser du skal se i Italien </h1>
